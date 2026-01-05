@@ -1,16 +1,20 @@
-## Hi there 👋
+# DarkNet Tor / Non-Tor Classification
 
-<!--
-**tsampakiourik/tsampakiourik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This repository contains the implementation of an intelligent cybersecurity system
+for classifying network traffic as Tor or Non-Tor using Machine Learning.
 
-Here are some ideas to get you started:
+## Dataset
+- DarkNet.csv (network flow features)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Method
+- Supervised classification
+- Random Forest Classifier
+- Feature Importance analysis for interpretability
+
+## Files
+- DarkNet_Tor_Classification_RandomForest_FeatureImportance.ipynb
+
+## Course
+3596 – Advanced Topics in Artificial Intelligence and Practical Application## Hi there 👋
+
+
